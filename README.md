@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kushan M. Moral  
+# Hi, I'm Kushan M. Moral  
 
 [Profile] https://github.com/kushan910
 
@@ -7,7 +7,7 @@
 💡 Passionate about **VLSI, Semiconductor Design, and RISC-V Architecture**  
 
 
-# 💻 RISC-V Reference SoC Tapeout Program — VSDIAT  
+# RISC-V Reference SoC Tapeout Program — VSDIAT  
 
 
 [VSD](https://img.shields.io/badge/VSD-Program-orange)
@@ -24,7 +24,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 > and advance the nation’s semiconductor ecosystem."*
 
 
-## 🛠️ Program Objectives & Scope  
+# Program Objectives & Scope  
 
 | Aspect | Details |
 |--------|---------|
@@ -36,24 +36,24 @@ This repository documents my **week-by-week progress** with tasks inside each we
 | 🇮🇳 National Impact | Advancing India’s semiconductor ecosystem |
 
 
-## 📅 Weekly Progress Tracker  
+# Weekly Progress Tracker  
 
 - ✅ **Week 0** — Setup & Tools  
 - ⏳ **Week 1** — Coming Soon  
 - 🔜 **Week 2** — Upcoming  
 
 
-## 🙏 Acknowledgment  
+# Acknowledgment  
 
 Special thanks to **Kunal Ghosh** and the **VLSI System Design (VSD)** team for this incredible opportunity to participate in the VSDIAT RISC-V SoC Tapeout Program.  
 
 
-## 🚀 Journey Continues...  
+# Journey Continues...  
 
 Stay tuned for upcoming weeks covering RTL design, synthesis, physical design, and final tapeout preparation!  
 
 
-## 🔗 Program Links  
+# Program Links  
 
 - [VSD Official Website](https://www.vlsisystemdesign.com/)  
 - [RISC-V International](https://riscv.org/)  
